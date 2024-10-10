@@ -17,7 +17,7 @@ A customizable password generator that allows users to create strong, random pas
 - Copy generated password to clipboard.
 
 ## Demo!
-![Demo]([Demo screenshot](https://github.com/user-attachments/assets/a3c568f7-0045-4525-8a7f-fd754fd9a5f2)
+Demo([Demo screenshot](https://github.com/user-attachments/assets/a3c568f7-0045-4525-8a7f-fd754fd9a5f2)
 )
 
 ## Installation
