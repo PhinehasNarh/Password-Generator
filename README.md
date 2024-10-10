@@ -48,7 +48,7 @@ Demo([Demo screenshot](https://github.com/user-attachments/assets/a3c568f7-0045-
 
 ## Contributing
 
-Feel free to open issues or pull requests to enhance the project.
+Feel free to open issues or pull requests to enhance this project.
 
 ## License
 
